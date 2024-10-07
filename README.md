@@ -1,4 +1,5 @@
 # Ecommerce-Sales-Analysis
+<img src="Ecom Dashboard.jpg" alt="Dashboard Overview" width="500"/>
 
 ## About the project
 
