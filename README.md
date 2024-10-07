@@ -23,14 +23,14 @@ The primary dataset used for this analysis is the “Ecommerce Sales Analysis.xl
 4. Phones and Chairs are the top-selling sub-categories, driving significant revenue.
 5. Highest sales are in California, Texas, and New York, while states like Wyoming and Alaska show minimal sales.
 
-## Recommendations:
+## Recommendations
 1. Analyze costs to address the decline in profit margin, potentially through cost-cutting or price adjustments.
 2. Plan promotions in March, September, and November to maximize sales during peak months.
 3. Expand the Technology category and promote top sub-categories like Phones and Chairs.
 4. Increase marketing efforts in underperforming states like Wyoming and Alaska to explore new market opportunities.
 5. Strengthen marketing in high-sales states like California and Texas to deepen market share.
 
-## Skills used: 
+## Skills used
 •	Cleaning data in Excel <br>
 •	Dashboard Development <br>
 •	Calculated Field <br>
